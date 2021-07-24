@@ -1,6 +1,6 @@
 ---
 title: Ming Ni
-role: Phd student at University of Sherbrooke
+role: Phd student
 avatar_filename: avatar.jpg
 bio: "My research interests include biogeography, biological invasions and
   community ecology. "

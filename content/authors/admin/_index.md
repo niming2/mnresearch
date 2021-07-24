@@ -13,8 +13,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/anhui_ni
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Université de Sherbrooke
+    url: https://www.usherbrooke.ca/
 email: niming.anhui@gmail.com
 superuser: true
 ---
